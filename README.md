@@ -1,7 +1,8 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://medium.com/@albertcavalcante/how-to-reach-developer-experience-supreme-level-part-two-suffering-because-of-bad-dx-da4e505b26f2))]
 <h1 align="center">Hi 👋, I'm Anuj Tadkase</h1>
 <h3 align="center">A passionate Artificial Intelligence ,Machine Learning And Android Development Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/v2/resize:fit:1272/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif](https://miro.medium.com/v2/resize:fit:1272/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif">
+
 
 - 🌱 I’m currently learning **Pytorch , Tensorflow , React , Node**
 
