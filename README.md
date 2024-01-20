@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 
-- 🌱 I’m currently learning **Pytorch , Tensorflow , React , Node**
+- 🌱 I’m currently learning **Pytorch , Tensorflow , Kotlin , Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANUJT65](https://github.com/ANUJT65)
 
