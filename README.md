@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **anujtadkase@gmail.com**
 
+- 🏆 Winner Hackspiration '24, 🥈 Top 10 @BNY MELLON DSA CRAFT , 🥉 Finalist @PICT TECH FIESTA INTERNATIONAL HACKATHON
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anuj-tadkase-a801b7268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj tadkase" height="30" width="40" /></a>
