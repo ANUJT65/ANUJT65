@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 
-- 🌱 I’m currently learning about **Pytorch , Tensorflow , React Native, Azure Cloud , Data Pipelines**
+- 🌱 I’m currently learning about **Pytorch , React Native, Azure Cloud , Data Pipelines**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANUJT65](https://github.com/ANUJT65)
 
-- 💬 Ask me about **Flutter , AI , ML ,DS**
+- 💬 Ask me about **Flutter , GenAI , ML ,Data Science**
 
 - 📫 How to reach me **anujtadkase@gmail.com**
 
