@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anujtadkase@gmail.com**
 
-- 🏆 Winner Hackspiration '24, 🥈 Top 10 @BNY MELLON DSA CRAFT , 🥉 Finalist @PICT TECH FIESTA INTERNATIONAL HACKATHON
+- 🏆 Winner Bank Of Baroda'24 Microsoft Hackathon ,🏆 Winner Hackspiration '24, 🥈 Top 10 @BNY MELLON DSA CRAFT , 🥉 Finalist @PICT TECH FIESTA INTERNATIONAL HACKATHON
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
