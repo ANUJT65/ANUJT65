@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANUJT65](https://github.com/ANUJT65)
 
-- 💬 Ask me about **Flutter , GenAI , ML ,Data Science**
+- 💬 Ask me about ** GenAI , ML ,Data Science,Cloud **
 
 - 📫 How to reach me **anujtadkase@gmail.com**
 
