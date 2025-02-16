@@ -94,11 +94,13 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
   </a>
+  </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 </p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujt65&show_icons=true&locale=en&layout=compact" alt="anujt65" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujt65&show_icons=true&locale=en" alt="anujt65" /></p>
- </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujt65&show_icons=true&locale=en&card_width=1000" alt="anujt65" />
+</p>
+
