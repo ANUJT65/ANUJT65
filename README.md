@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anujtadkase@gmail.com**
 
-- 🏆 Winner Barclays Hack O Hire Hackathon ,🏆 Winner Bank Of Baroda'24 Microsoft Hackathon ,🏆 SIH2024,  🏆 Winner Hackspiration '24, 🥈 Top 10 @BNY MELLON DSA CRAFT , 🥉 Finalist @PICT TECH FIESTA INTERNATIONAL HACKATHON
+- 🥉 UBS Hackathon Finalist, 🏆 Winner Barclays Hack O Hire Hackathon ,🏆 Winner Bank Of Baroda'24 Microsoft Hackathon ,🏆 SIH2024,  🏆 Winner Hackspiration '24, 🥈 Top 10 @BNY MELLON DSA CRAFT , 🥉 Finalist @PICT TECH FIESTA INTERNATIONAL HACKATHON
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
