@@ -32,4 +32,17 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujt65&theme=github-compact" />
+</p>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujt65&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anujt65&theme=default" />
+    </td>
+  </tr>
+</table>
