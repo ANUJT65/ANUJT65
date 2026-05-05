@@ -25,10 +25,16 @@
 </p>
 
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujt65&layout=compact&hide=jupyter%20notebook" alt="anujt65's top languages" style="width: 33%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anujt65&show_icons=true&locale=en&card_width=700" alt="anujt65" style="width: 65%;" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujt65&layout=compact&hide=jupyter%20notebook" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=anujt65&show_icons=true&locale=en" />
+    </td>
+  </tr>
+</table>
 
 
 
