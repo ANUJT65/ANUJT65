@@ -25,7 +25,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujt65&layout=compact" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujt65&layout=compact&hide=jupyter%20notebook" />
     </td>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anujt65&show_icons=true" />
