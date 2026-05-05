@@ -23,18 +23,14 @@
 </p>
   </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 </p>
-
-
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujt65&layout=compact&hide=jupyter%20notebook" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujt65&layout=compact" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=anujt65&show_icons=true&locale=en" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anujt65&show_icons=true" />
     </td>
   </tr>
 </table>
-
-
 
